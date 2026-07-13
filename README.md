@@ -200,15 +200,6 @@ https://github.com/yashkhatri19/CustomerSupportChatBot
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashkhatri19&theme=onedark&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
