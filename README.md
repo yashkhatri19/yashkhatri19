@@ -186,15 +186,7 @@ https://github.com/yashkhatri19/CustomerSupportChatBot
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashkhatri19&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkhatri19&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkhatri19&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
