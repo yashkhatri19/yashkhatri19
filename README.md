@@ -25,7 +25,7 @@ Currently improving my expertise in **Spring Boot, Microservices, AWS, Docker, S
 - 🛠 Love solving backend problems
 - 📍 Ujjain, Madhya Pradesh, India
 - 📫 Email: **yashkhatri.gcsb@gmail.com**
--   Phone No: 7649827819
+- 📱 Phone No: 7649827819
 
 ---
 
