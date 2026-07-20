@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Yash Khatri
 
-### Java Backend Developer | Spring Boot | REST APIs | SQL | AI Applications | HTML | CSS
+### Java Backend Developer | Spring Boot | REST APIs | SQL | AI Applications | HTML | CSS | C
 
 I'm a passionate Backend Developer from India with internship experience in Java Backend Development. I enjoy building scalable backend systems, REST APIs, AI-powered applications, and cloud-based solutions.
 
