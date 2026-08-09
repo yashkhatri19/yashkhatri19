@@ -10,7 +10,7 @@
 
 ### Java Backend Developer | Spring Boot | REST APIs | Swing | SQL | HTML | CSS | C | C++ | Python | Javascript
 
-I'm a passionate Backend Developer from India with internship experience in Java Backend Development. I enjoy building scalable backend systems, REST APIs, AI-powered applications, and cloud-based solutions.
+I'm a passionate Backend Developer from India with internship experience in Java Backend Development. I enjoy building scalable backend systems, REST APIs, AI-powered applications, and cloud-based solutions.Seeking a Java Developer role to apply problem-solving skills and contribute to software development projects.
 
 Currently improving my expertise in **Spring Boot, Microservices, AWS, Docker, System Design, and AI Integration.**
 
